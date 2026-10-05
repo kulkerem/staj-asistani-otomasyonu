@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Staj Basvuru Asistani",
+  "version": "1.0",
+  "description": "Staj başvuru formlarını tek tıkla dolduran akıllı asistan.",
+  "permissions": [
+    "activeTab",
+    "storage",
+    "scripting"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
